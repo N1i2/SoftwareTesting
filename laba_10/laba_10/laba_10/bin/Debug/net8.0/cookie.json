@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "allowedCookie",
+    "Value": "0",
+    "Domain": "oz.by",
+    "Path": "/",
+    "Expiry": "12/17/2024 5:33:37 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "_userGUID",
+    "Value": "0:m4e9z1d0:CNzpsr~2sNrjJ8iH95FonZ9mcuDqguzw",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "1/11/2026 5:33:37 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "PHPSESSID",
+    "Value": "iva5fl8ngkmlkqur2mjr4ltenb",
+    "Domain": "oz.by",
+    "Path": "/",
+    "Expiry": "null",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "SID_de664c25",
+    "Value": "f9f81b5825122aae084ca9e1744e4ff9",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 5:48:38 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "CATALOG_MENU_STATE",
+    "Value": "0000000000000000000000000000000000000000000000000000100000110001",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "1/6/2025 5:33:35 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "dSesn",
+    "Value": "1432706c-e466-6317-9b9a-190eb2ee2179",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 6:03:37 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "statistic_cookie",
+    "Value": "YTo2OntzOjI6ImlkIjtpOjMwMDE7czo3OiJyZWZlcmVyIjtiOjA7czo3OiJyZXF1ZXN0IjtzOjI2NToiaHR0cHM6Ly9vei5ieS8%2FcmVmc291cmNlPWdvb2dsZV9ib29rcyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249JTdCY2FtcGFpZ25faWQlN0QmdXRtX2NvbnRlbnQ9JTdCYWRfaWQlN0QmdXRtX3Rlcm09JmdhZF9zb3VyY2U9MSZnY2xpZD1DandLQ0FpQTlJQzZCaEEzRWl3QXNibHRPQ0ZiaWVoZ1JpelRjclBzY2c5dGlqNWFmVE00cktVbDdWcnlsa2NFdlB6akdFeUxzdjZIUHhvQ3NYRVFBdkRfQndFJmRpc2FsbG93ZWRDb29raWU9MSI7czo3OiJjcmVhdGVkIjtpOjE3MzM1ODIwMTI7czo2OiJkb21haW4iO3M6MDoiIjtzOjExOiJkb21haW5fZnVsbCI7czowOiIiO30%3D",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/14/2024 5:33:35 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "SID_970e2927",
+    "Value": "ae54df9235194887fc0711dc8f796fed",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 5:48:38 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  }
+]

@@ -1,0 +1,4 @@
+[2024-12-09 08:39:01] Select started
+[2024-12-09 08:39:22] Select failed: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+[2024-12-09 08:46:04] Login started
+[2024-12-09 08:46:13] Login failed: Object reference not set to an instance of an object.

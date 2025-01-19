@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "allowedCookie",
+    "Value": "0",
+    "Domain": "oz.by",
+    "Path": "/",
+    "Expiry": "12/17/2024 4:49:57 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "dSesn",
+    "Value": "1f455603-d316-2412-951f-31cd76dae7fc",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 5:19:53 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "_userGUID",
+    "Value": "0:m4e8et9x:6_OOfSRM4gthyxvQ8AW4Xh_o2tvhyahY",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "1/11/2026 4:49:53 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "PHPSESSID",
+    "Value": "oorruss9l5jtoajni6es132k1s",
+    "Domain": "oz.by",
+    "Path": "/",
+    "Expiry": "null",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "SID_de664c25",
+    "Value": "73edbea009519a00b84d56561b395db7",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 5:05:19 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "CATALOG_MENU_STATE",
+    "Value": "0000000000000000000000000000000000000000000000000000100000110001",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "1/6/2025 4:49:44 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  },
+  {
+    "Name": "SID_970e2927",
+    "Value": "73edbea009519a00b84d56561b395db7",
+    "Domain": ".oz.by",
+    "Path": "/",
+    "Expiry": "12/7/2024 5:05:19 PM",
+    "Secure": "False",
+    "HttpOnly": "False"
+  }
+]

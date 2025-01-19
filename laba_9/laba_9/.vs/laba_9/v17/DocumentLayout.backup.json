@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\TPO\\laba_9\\laba_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D88D53A-B789-47E7-98BB-4217677F7F46}|MyShop.Tests\\MyShop.Tests.csproj|d:\\univer\\tpo\\laba_9\\laba_9\\myshop.tests\\myshop.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D88D53A-B789-47E7-98BB-4217677F7F46}|MyShop.Tests\\MyShop.Tests.csproj|solutionrelative:myshop.tests\\myshop.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E38E20-F19E-4B76-BF34-9F7AAB3B79EA}|laba_9\\laba_9.csproj|d:\\univer\\tpo\\laba_9\\laba_9\\laba_9\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E38E20-F19E-4B76-BF34-9F7AAB3B79EA}|laba_9\\laba_9.csproj|solutionrelative:laba_9\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E38E20-F19E-4B76-BF34-9F7AAB3B79EA}|laba_9\\laba_9.csproj|d:\\univer\\tpo\\laba_9\\laba_9\\laba_9\\myshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E38E20-F19E-4B76-BF34-9F7AAB3B79EA}|laba_9\\laba_9.csproj|solutionrelative:laba_9\\myshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyShop.Tests.cs",
+              "DocumentMoniker": "D:\\Univer\\TPO\\laba_9\\laba_9\\MyShop.Tests\\MyShop.Tests.cs",
+              "RelativeDocumentMoniker": "MyShop.Tests\\MyShop.Tests.cs",
+              "ToolTip": "D:\\Univer\\TPO\\laba_9\\laba_9\\MyShop.Tests\\MyShop.Tests.cs",
+              "RelativeToolTip": "MyShop.Tests\\MyShop.Tests.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:47:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "D:\\Univer\\TPO\\laba_9\\laba_9\\laba_9\\OrderManager.cs",
+              "RelativeDocumentMoniker": "laba_9\\OrderManager.cs",
+              "ToolTip": "D:\\Univer\\TPO\\laba_9\\laba_9\\laba_9\\OrderManager.cs",
+              "RelativeToolTip": "laba_9\\OrderManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:46:50.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyShop.cs",
+              "DocumentMoniker": "D:\\Univer\\TPO\\laba_9\\laba_9\\laba_9\\MyShop.cs",
+              "RelativeDocumentMoniker": "laba_9\\MyShop.cs",
+              "ToolTip": "D:\\Univer\\TPO\\laba_9\\laba_9\\laba_9\\MyShop.cs",
+              "RelativeToolTip": "laba_9\\MyShop.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:46:03.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

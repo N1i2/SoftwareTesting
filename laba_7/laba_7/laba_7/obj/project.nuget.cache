@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+1tWb/8V70=",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\TPO\\laba_7\\laba_7\\laba_7\\laba_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikko\\.nuget\\packages\\selenium.support\\4.26.1\\selenium.support.4.26.1.nupkg.sha512",
+    "C:\\Users\\nikko\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}

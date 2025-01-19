@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\TPO\\laba_10\\laba_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91F4C4-A05E-4C46-99CB-A69DFE03B175}|laba_10\\laba_10.csproj|d:\\univer\\tpo\\laba_10\\laba_10\\laba_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91F4C4-A05E-4C46-99CB-A69DFE03B175}|laba_10\\laba_10.csproj|solutionrelative:laba_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Univer\\TPO\\laba_10\\laba_10\\laba_10\\Program.cs",
+              "RelativeDocumentMoniker": "laba_10\\Program.cs",
+              "ToolTip": "D:\\Univer\\TPO\\laba_10\\laba_10\\laba_10\\Program.cs",
+              "RelativeToolTip": "laba_10\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:03:41.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
